@@ -1,0 +1,35 @@
+# sbt specific
+target/
+project/target/
+project/project/
+
+# Idea specific
+.idea/
+*.iws
+*.iml
+*.ipr
+
+# Eclipse specific
+*.class
+*.cache
+*.project
+*.scala_dependencies
+*.classpath
+.worksheet
+
+# VS Code specific
+.vscode/
+
+# Mac specific
+.DS_Store
+
+# Logs
+logs/
+*.log
+
+# Temporary files
+tmp/
+*.tmp
+*.swp
+
+haslo.txt
